@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on **Goal prediction and trajectory forceasting**
-- 🌱 I’m currently learning **Deep Q-learning and Policy gradients**
-- 👯 I’m looking to collaborate on **Anything RL or vision based**
+- 🔭 I’m currently working on **goal prediction and trajectory forceasting**
+- 🌱 I’m currently learning **deep Q-learning and Policy gradients**
+- 👯 I’m looking to collaborate on **anything RL or vision based**
 - 🤔 I’m looking for help with this README
 - 💬 Ask me about **Star Wars, the universe and anything in between**
-- 📫 How to reach me: aakash.aanegola@students.iiit.ac.in
+- 📫 How to reach me: aakash.aanegola@students.iiit.ac.in or on [linkedIn](https://www.linkedin.com/in/aakash-aanegola-9221a2217/)
 
 [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aa-Aanegola&show_icons=true&theme=blueberry&count_private=true)
