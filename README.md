@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Star Wars, the universe and anything in between**
 - 📫 How to reach me: aakash.aanegola@students.iiit.ac.in
 
-[![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aa-Aanegola)](https://github.com/anuraghazra/github-readme-stats)
+[![Aakash's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aa-Aanegola&show_icons=true&theme=blueberry&count_private=true)
+)](https://github.com/anuraghazra/github-readme-stats)
